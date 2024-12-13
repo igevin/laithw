@@ -6,3 +6,4 @@ langchain-text-splitters==0.3.2
 langsmith==0.1.147
 openai==1.57.0
 pydantic~=2.10.3
+torch~=2.5.1
