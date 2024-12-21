@@ -9,3 +9,5 @@ openai==1.57.0
 pydantic~=2.10.3
 torch~=2.5.1
 pypdf~=5.1.0
+transformers~=4.47.0
+qdrant-client~=1.12.1
