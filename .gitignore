@@ -193,3 +193,5 @@ cython_debug/
 
 
 *tmp*
+
+z_ignore
